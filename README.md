@@ -155,9 +155,14 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./out.png)
+![image](https://user-images.githubusercontent.com/118343461/213478588-cf043245-e8a5-4dcd-ac78-9e4c9d302e65.png)
+
+
 ### Home Page:
-![Homepage](./home.png)
+![image](https://user-images.githubusercontent.com/118343461/213478687-1da982b9-75f3-45f3-af6f-3a86abe28279.png)
+
+
+
 
 
 ## Result:
